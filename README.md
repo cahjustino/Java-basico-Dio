@@ -1,2 +1,2 @@
 # Java-basico-Dio
-portifolio curso java da Digital inovation one(DIO) com projetos desenvolvendos durante o curso.
+REPOSITORIO para o  curso  trilha java da Digital inovation one(DIO) com projetos desenvolvindos durante o curso.
